@@ -141,7 +141,7 @@ nav{
     align-items: center;
     font-size: 14px;
     margin-bottom: 100px;
-
+    width: 1083px;
     
 }
 
@@ -149,6 +149,13 @@ ul{
     display: flex;
     gap: 64px;
     list-style-type: none; 
+
+    
+    
+    align-content: space-between;
+    align-items: center;
+    
+
 }
 
 .page {
@@ -200,6 +207,10 @@ p{
 
 footer{
     text-align: center;
+
+    font-size: 14px;
+    
+
 }
 
 span{
