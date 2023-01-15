@@ -149,9 +149,6 @@ ul{
     display: flex;
     gap: 64px;
     list-style-type: none; 
-
-    
-    
     align-content: space-between;
     align-items: center;
     
@@ -182,10 +179,7 @@ main{
 
 section{
     text-align: center;
-    
     font-family: 'Open Sans', sans-serif;
-    
-    
 
 }
 
@@ -207,9 +201,7 @@ p{
 
 footer{
     text-align: center;
-
     font-size: 14px;
-    
 
 }
 
